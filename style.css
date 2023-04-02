@@ -175,7 +175,7 @@ html,body{
     height: max-content;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    display: inline;
+    display: inline; 
     top: 140px;
     justify-content: center;
 }
